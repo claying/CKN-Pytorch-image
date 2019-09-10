@@ -48,7 +48,7 @@ cd experiments
 Here is a summary of the results of **unsupervised** CKN on CIFAR10 image classification dataset with pre-whitening
 and without data augmentation or model ensembling.
 
-```python
+```bash
 # Code examples
 python cifar10_unsup.py --filters 64 256 --subsamplings 2 6 --kernel-sizes 3 3
 ```
@@ -64,7 +64,7 @@ python cifar10_unsup.py --filters 64 256 --subsamplings 2 6 --kernel-sizes 3 3
 Here is a summary of the results of **supervised** CKN on CIFAR10 image classification dataset with pre-whitening
 and without data augmentation or model ensembling.
 
-```python
+```bash
 # Code examples
 python cifar10_sup.py --epochs 105 --lr 0.1 --alpha 0.001 --loss hinge --alternating --model ckn5
 python cifar10_sup.py --epochs 105 --lr 0.1 --alpha 0.1 --loss hinge --alternating --model ckn14
