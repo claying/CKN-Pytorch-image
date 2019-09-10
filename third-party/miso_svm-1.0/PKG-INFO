@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: miso_svm
+Version: 1.0
+Summary: Python interface for MISO SVM classifier
+Home-page: UNKNOWN
+Author: Ghislain Durif
+Author-email: ckn.dev@inria.fr
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
